@@ -1,0 +1,49 @@
+﻿  printaTelaModerador.c
+D:\c\projetopimteste\projetopimteste\printaTelaModerador.c(54,9): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+D:\c\projetopimteste\projetopimteste\printaTelaModerador.c(80,35): warning C4553: '==': o resultado da expressão não usado; você pretendia que fosse '='?
+D:\c\projetopimteste\projetopimteste\printaTelaModerador.c(81,35): warning C4553: '==': o resultado da expressão não usado; você pretendia que fosse '='?
+D:\c\projetopimteste\projetopimteste\printaTelaModerador.c(82,35): warning C4553: '==': o resultado da expressão não usado; você pretendia que fosse '='?
+D:\c\projetopimteste\projetopimteste\printaTelaModerador.c(83,29): warning C4553: '==': o resultado da expressão não usado; você pretendia que fosse '='?
+D:\c\projetopimteste\projetopimteste\printaTelaModerador.c(114,35): warning C4553: '==': o resultado da expressão não usado; você pretendia que fosse '='?
+D:\c\projetopimteste\projetopimteste\printaTelaModerador.c(115,35): warning C4553: '==': o resultado da expressão não usado; você pretendia que fosse '='?
+D:\c\projetopimteste\projetopimteste\printaTelaModerador.c(116,35): warning C4553: '==': o resultado da expressão não usado; você pretendia que fosse '='?
+D:\c\projetopimteste\projetopimteste\printaTelaModerador.c(117,29): warning C4553: '==': o resultado da expressão não usado; você pretendia que fosse '='?
+D:\c\projetopimteste\projetopimteste\printaTelaModerador.c(244,45): warning C4047: 'função': 'char *' difere em níveis de indireção de 'int'
+D:\c\projetopimteste\projetopimteste\printaTelaModerador.c(244,42): warning C4024: 'strcpy': tipos diferentes para parâmetro formal e real 1
+D:\c\projetopimteste\projetopimteste\printaTelaModerador.c(244,55): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'int'
+D:\c\projetopimteste\projetopimteste\printaTelaModerador.c(244,47): warning C4024: 'strcpy': tipos diferentes para parâmetro formal e real 2
+D:\c\projetopimteste\projetopimteste\printaTelaModerador.c(359,45): warning C4047: 'função': 'char *' difere em níveis de indireção de 'int'
+D:\c\projetopimteste\projetopimteste\printaTelaModerador.c(359,42): warning C4024: 'strcpy': tipos diferentes para parâmetro formal e real 1
+D:\c\projetopimteste\projetopimteste\printaTelaModerador.c(359,55): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'int'
+D:\c\projetopimteste\projetopimteste\printaTelaModerador.c(359,47): warning C4024: 'strcpy': tipos diferentes para parâmetro formal e real 2
+D:\c\projetopimteste\projetopimteste\printaTelaModerador.c(576,13): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+D:\c\projetopimteste\projetopimteste\printaTelaModerador.c(655,13): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+D:\c\projetopimteste\projetopimteste\printaTelaModerador.c(668,9): warning C4101: 'perfil': variável local não referenciada
+  printaTelaUsuario.c
+D:\c\projetopimteste\projetopimteste\printaTelaUsuario.c(86,13): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+D:\c\projetopimteste\projetopimteste\printaTelaUsuario.c(110,9): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+D:\c\projetopimteste\projetopimteste\printaTelaUsuario.c(200,13): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+D:\c\projetopimteste\projetopimteste\printaTelaUsuario.c(255,13): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+D:\c\projetopimteste\projetopimteste\printaTelaUsuario.c(310,13): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+D:\c\projetopimteste\projetopimteste\printaTelaUsuario.c(365,9): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+D:\c\projetopimteste\projetopimteste\printaTelaUsuario.c(421,13): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+D:\c\projetopimteste\projetopimteste\printaTelaUsuario.c(522,13): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+D:\c\projetopimteste\projetopimteste\printaTelaUsuario.c(587,13): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+D:\c\projetopimteste\projetopimteste\printaTelaUsuario.c(652,13): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+D:\c\projetopimteste\projetopimteste\printaTelaUsuario.c(717,13): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+D:\c\projetopimteste\projetopimteste\printaTelaUsuario.c(782,13): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+D:\c\projetopimteste\projetopimteste\printaTelaUsuario.c(830,9): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+D:\c\projetopimteste\projetopimteste\printaTelaUsuario.c(852,22): warning C4133: 'função': tipos incompatíveis - de 'int [193]' para 'char *'
+D:\c\projetopimteste\projetopimteste\printaTelaUsuario.c(853,16): warning C4477: 'printf': a cadeia de formato '%d' requer um argumento do tipo 'int', mas um argumento variadic 1 tem o tipo 'int *'
+D:\c\projetopimteste\projetopimteste\printaTelaUsuario.c(855,23): warning C4133: 'função': tipos incompatíveis - de 'int [193]' para 'char *'
+D:\c\projetopimteste\projetopimteste\printaTelaUsuario.c(858,24): warning C4133: 'função': tipos incompatíveis - de 'int [193]' para 'char *'
+D:\c\projetopimteste\projetopimteste\printaTelaUsuario.c(878,9): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+D:\c\projetopimteste\projetopimteste\printaTelaUsuario.c(881,13): warning C4098: 'relatorioUsuario': função 'void' retornando um valor
+D:\c\projetopimteste\projetopimteste\printaTelaUsuario.c(844,9): warning C4101: 'ativo': variável local não referenciada
+D:\c\projetopimteste\projetopimteste\printaTelaUsuario.c(935,13): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+D:\c\projetopimteste\projetopimteste\printaTelaUsuario.c(968,13): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+D:\c\projetopimteste\projetopimteste\printaTelaUsuario.c(998,13): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+D:\c\projetopimteste\projetopimteste\printaTelaUsuario.c(1055,9): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+D:\c\projetopimteste\projetopimteste\printaTelaUsuario.c(1068,9): warning C4101: 'perfil': variável local não referenciada
+  Gerando Código...
+  projetopimteste.vcxproj -> D:\c\projetopimteste\Debug\projetopimteste.exe
